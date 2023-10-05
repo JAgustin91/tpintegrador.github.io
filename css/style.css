@@ -1,0 +1,20 @@
+.bg-aside1 {
+  background: #333a40;
+  text-align: justify;
+}
+
+.custom-img-carousel {
+  height: 45rem;
+}
+
+.custom-bg-dark {
+  background-color: rgba(0, 0, 0, 0.367);
+  text-align: center;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+#main-footer {
+  background-color: #1d3c4e;
+  padding: 1.5rem;
+}
